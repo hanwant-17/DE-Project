@@ -1,0 +1,12 @@
+sale_id,store_id,product_id,quantity,sale_date,amount,product_name,category,price,store_name,city,region,total_revenue
+1,101,P001,2,2026-06-01,100000.0,Laptop,Electronics,50000,RetailMart Jaipur,Jaipur,North,100000
+2,102,P002,3,2026-06-01,1800.0,Wireless Mouse,Electronics,600,RetailMart Delhi,Delhi,North,1800
+3,103,P003,1,2026-06-01,25000.0,Smartphone,Electronics,25000,RetailMart Mumbai,Mumbai,West,25000
+4,104,P004,5,2026-06-01,4000.0,Office Chair,Furniture,800,RetailMart Bengaluru,Bengaluru,South,4000
+5,105,P005,0,2026-06-02,2400.0,Water Bottle,Home,400,RetailMart Ahmedabad,Ahmedabad,West,0
+7,102,P007,2,2026-06-02,3000.0,Headphones,Electronics,1500,RetailMart Delhi,Delhi,North,3000
+8,103,P008,6,2026-06-03,1800.0,Notebook,Stationery,300,RetailMart Mumbai,Mumbai,West,1800
+9,104,P009,3,2026-06-03,135000.0,LED TV,Electronics,45000,RetailMart Bengaluru,Bengaluru,South,135000
+10,105,P010,2,2026-06-03,3000.0,Backpack,Bags,1500,RetailMart Ahmedabad,Ahmedabad,West,3000
+13,103,P004,4,2026-06-04,3200.0,Office Chair,Furniture,800,RetailMart Mumbai,Mumbai,West,3200
+14,104,P006,0,2026-06-04,6000.0,Study Table,Furniture,1500,RetailMart Bengaluru,Bengaluru,South,0
